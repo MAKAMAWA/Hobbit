@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Hobbit2</string>
+    <string name="category_hobbit">Hobbit</string>
+    <string name="category_elf">Elf</string>
+    <string name="category_wizard">Wizard</string>
+    <string name="category_gallery">Gallery</string>
+    <string name="category_dwarf">Dwarf</string>
+</resources>
